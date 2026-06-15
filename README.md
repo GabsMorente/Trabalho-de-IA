@@ -43,7 +43,7 @@ Como obter o dataset:
 ---
 ## 𝐌𝐞́𝐭𝐨𝐝𝐨𝐬 𝐝𝐞 𝐈𝐀 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨𝐬
 
-Parte 1 — KNN (K-Nearest Neighbors)
+### KNN (K-Nearest Neighbors)
 O KNN é um algoritmo de aprendizado supervisionado baseado em similaridade. Para classificar uma nova mensagem, ele encontra as k mensagens mais próximas no espaço vetorial e atribui a classe mais comum entre elas.
 Configuração utilizada:
 
@@ -53,7 +53,7 @@ Processamento paralelo com n_jobs=-1
 
 O KNN é um modelo simples e interpretável, porém pode ter desempenho limitado em espaços de alta dimensionalidade, como os gerados pela vetorização de texto.
 
-Parte 2 — SVM (Support Vector Machine)
+### SVM (Support Vector Machine)
 O SVM é um algoritmo de aprendizado supervisionado que busca encontrar o hiperplano de máxima margem que separa as classes no espaço vetorial. A variante utilizada foi o LinearSVC, que é otimizada para problemas de classificação de texto com alta dimensionalidade.
 Configuração utilizada:
 
@@ -63,7 +63,7 @@ Máximo de iterações: 2.000
 
 O SVM é especialmente eficiente para problemas de texto, pois funciona bem em espaços com muitas dimensões e pequena quantidade relativa de amostras.
 
-Pipeline utilizado
+### Pipeline utilizado
 Ambos os modelos foram encapsulados em um Pipeline do scikit-learn, garantindo que a vetorização TF-IDF e a classificação ocorram de forma integrada e sem vazamento de dados entre treino e teste.
 TF-IDF Vectorizer → [KNN ou SVM]
 
