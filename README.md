@@ -20,7 +20,7 @@ O problema abordado neste trabalho é a classificação binária de mensagens SM
 
 ---
 ## 𝐇𝐢𝐩𝐨́𝐬𝐭𝐞𝐬𝐞
-A hipótese da equipe é que mensagens de spam possuem características linguísticas distintas das mensagens legítimas, como o uso frequente de palavras ligadas a prêmios, urgência, dinheiro e links, além de apresentarem maior comprimento e maior proporção de letras maiúsculas. Com base nessas diferenças, acreditamos que modelos de aprendizado de máquina treinados com representações TF-IDF serão capazes de classificar corretamente a grande maioria das mensagens. Além disso, esperamos que o SVM supere o KNN nessa tarefa, por ser um modelo mais adequado para espaços de alta dimensionalidade como os gerados pela vetorização de texto.
+Nossa hipótese é que mensagens de spam possuem características linguísticas distintas das mensagens legítimas, como o uso frequente de palavras ligadas a prêmios, urgência, dinheiro e links, além de apresentarem maior comprimento e maior proporção de letras maiúsculas. Com base nessas diferenças, acreditamos que modelos de aprendizado de máquina treinados com representações TF-IDF serão capazes de classificar corretamente a grande maioria das mensagens. Além disso, esperamos que o SVM supere o KNN nessa tarefa, por ser um modelo mais adequado para espaços de alta dimensionalidade como os gerados pela vetorização de texto.
 
 ---
 ## Descrição do Dataset
