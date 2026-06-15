@@ -5,9 +5,9 @@
 ### Integrantes
 
 - Antonio Ferreira de Lima - RA: 23038173-2 
-- Gabrielle Morente Perna 2 - RA: 23217729-2
-- Karen Tanaka 3 - RA: 23026540-2
-- Leonardo Leitão Souza 4 - RA: 23020085-2 
+- Gabrielle Morente Perna - RA: 23217729-2
+- Karen Tanaka - RA: 23026540-2
+- Leonardo Leitão Souza - RA: 23020085-2 
 
 ---
 
