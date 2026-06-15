@@ -1,8 +1,7 @@
 # 𝕋𝕣𝕒𝕓𝕒𝕝𝕙𝕠 𝕕𝕖 𝕀𝔸 | 𝗗𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮 𝗱𝗲 𝗜𝗻𝘁𝗲𝗹𝗶𝗴𝗲̂𝗻𝗰𝗶𝗮 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 , 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗼𝗿 𝗠𝘂𝗻𝗶𝗳 , 𝗨𝗻𝗶𝗰𝗲𝘀𝘂𝗺𝗮𝗿 𝟮𝟬𝟮𝟲
 ## Classificação de Spam com KNN e SVM
 ---
-## <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f35171c5-6a71-48f5-9ca0-a7a6b59bdfb4" />
-𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬
+## 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬
 - Antonio Ferreira de lima - 23038173-2
 - Gabrielle Morente Perna - 23217729-2
 - Karen Tanaka - 23026540-2
