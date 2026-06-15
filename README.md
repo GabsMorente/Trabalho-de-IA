@@ -67,26 +67,24 @@ Pipeline utilizado
 Ambos os modelos foram encapsulados em um Pipeline do scikit-learn, garantindo que a vetorização TF-IDF e a classificação ocorram de forma integrada e sem vazamento de dados entre treino e teste.
 TF-IDF Vectorizer → [KNN ou SVM]
 
-### 𝐀𝐯𝐚𝐥𝐢𝐚𝐜̧𝐚̃𝐨 𝐝𝐨𝐬 𝐦𝐨𝐝𝐞𝐥𝐨𝐬
+### 📊 𝐀𝐯𝐚𝐥𝐢𝐚𝐜̧𝐚̃𝐨 𝐝𝐨𝐬 𝐦𝐨𝐝𝐞𝐥𝐨𝐬
 
-=======================================================
-        Acurácia  Precisão  Revocação  F1-Score
-Modelo                                         
-KNN       0.9704    0.9531     0.8188    0.8809
-SVM       0.9830    0.9851     0.8859    0.9329
-=======================================================
+| Modelo | Acurácia | Precisão | Revocação | F1-Score |
+|---------|---------:|---------:|----------:|---------:|
+| KNN | 0.9704 | 0.9531 | 0.8188 | 0.8809 |
+| SVM | 0.9830 | 0.9851 | 0.8859 | 0.9329 |
 
-![Análise exploratoria dataset](Análise Exploratória de dataset.png)
+![Análise Exploratória do Dataset](Análise%20Exploratória%20de%20dataset.png)
 
-### 𝐂𝐨𝐦𝐚𝐩𝐫𝐚𝐜̧𝐚̃𝐨 𝐝𝐨𝐬 𝐫𝐞𝐬𝐮𝐥𝐭𝐚𝐝𝐨𝐬
+### 📈 𝐂𝐨𝐦𝐚𝐩𝐫𝐚𝐜̧𝐚̃𝐨 𝐝𝐨𝐬 𝐫𝐞𝐬𝐮𝐥𝐭𝐚𝐝𝐨𝐬
 
 Matriz de confusão
 
-![Matriz de confusão](Matrizes de Confusão - KNN vs SVM.png)
+![Matrizes de Confusão](Matrizes%20de%20Confusão%20-%20KNN%20vs%20SVM.png)
 
 Comparação de desempenh0
 
-![Comparação de desempenh0](Comparação de desempenho - KNN vs SVM.png)
+![Comparação de Desempenho](Comparação%20de%20desempenho%20-%20KNN%20vs%20SVM.png)
 
 ---
 ## 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐚̃𝐨
