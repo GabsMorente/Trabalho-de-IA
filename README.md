@@ -82,7 +82,7 @@ Matriz de confusão
 
 ![Matrizes de Confusão](Matrizes%20de%20Confusão%20-%20KNN%20vs%20SVM.png)
 
-Comparação de desempenh0
+Comparação de desempenho
 
 ![Comparação de Desempenho](Comparação%20de%20desempenho%20-%20KNN%20vs%20SVM.png)
 
