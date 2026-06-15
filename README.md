@@ -19,7 +19,7 @@ E para que os modelos conseguissem trabalhar com texto, as mensagens foram conve
 O problema abordado neste trabalho é a classificação binária de mensagens SMS, com o objetivo de determinar automaticamente se uma mensagem é spam ou ham (não-spam). A classificação manual desse tipo de conteúdo é inviável em larga escala, tornando necessária uma solução automatizada capaz de aprender a partir de exemplos rotulados.
 
 ---
-## 𝐇𝐢𝐩𝐨́𝐬𝐭𝐞𝐬𝐞
+## 𝐇𝐢𝐩𝐨́𝐭𝐞𝐬𝐞
 Nossa hipótese é que mensagens de spam possuem características linguísticas distintas das mensagens legítimas, como o uso frequente de palavras ligadas a prêmios, urgência, dinheiro e links, além de apresentarem maior comprimento e maior proporção de letras maiúsculas. Com base nessas diferenças, acreditamos que modelos de aprendizado de máquina treinados com representações TF-IDF serão capazes de classificar corretamente a grande maioria das mensagens. Além disso, esperamos que o SVM supere o KNN nessa tarefa, por ser um modelo mais adequado para espaços de alta dimensionalidade como os gerados pela vetorização de texto.
 
 ---
