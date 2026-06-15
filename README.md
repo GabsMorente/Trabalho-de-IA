@@ -91,4 +91,3 @@ Este trabalho tem como foco a aplicação prática de dois algoritmos clássicos
 
 Depois de treinar e comparar os dois modelos, ficou claro que o SVM se saiu melhor que o KNN para esse tipo de problema. Isso já era esperado — o SVM é um algoritmo feito para trabalhar bem em espaços com muitas dimensões, que é exatamente o que acontece quando a gente transforma texto em vetores TF-IDF com 5.000 features.
 
-O KNN não foi ruim, mas ele tem uma limitação natural: quanto mais dimensões, mais difícil fica pra ele medir similaridade de forma confiável. Então o desempenho mais fraco faz sentido.
