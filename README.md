@@ -36,7 +36,6 @@ Foi utilizado o SMS Spam Collection Dataset, disponibilizado publicamente pelo U
 Como obter o dataset:
   1. Acesse: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset;
   2. Faça download do arquivo 'spam.csv';
-  3. Renomeie para 'SMSSpamCollection.csv' e coloque na mesma pasta deste script;
   OU
   1. Acesse o documento intitulado spam.csv.
 
